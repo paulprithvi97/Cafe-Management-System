@@ -1,0 +1,51 @@
+D:\C#\Projects\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin_Login.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerInfo.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeeReg.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Landing.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.PasswordReset.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.Cache
+D:\C#\Projects\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\C#\Projects\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\C#\Projects\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin_Login.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerInfo.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeeReg.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Landing.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.PasswordReset.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ManagerUI.ManagerLogin.resources
+C:\Users\ASUS\Documents\Running Project\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ManagerUI.ManagerHome.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin_Login.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Admin.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerInfo.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeeReg.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Landing.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ManagerUI.ManagerHome.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ManagerUI.ManagerLogin.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.PasswordReset.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\ASUS\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
